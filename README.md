@@ -19,4 +19,20 @@ Admin Panel -
 
 ## Tech Stack
 
+- Node.js
+- Express.js
+- dotenv
+- mongoose
+- nodemon
+
 ## API EndPoints
+Users
+- /api/v1/user/create
+- /api/v1/user/getall
+- /api/v1/user/get/:id
+- /api/v1/user/delete/:id
+- /api/v1/user/update/:id
+
+
+
+
